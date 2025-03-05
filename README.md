@@ -12,11 +12,17 @@ In app, when the mood is selected, the Flutter notifies the Android native code 
 
 <img src="https://github.com/user-attachments/assets/218409f4-3e5d-4fda-905d-1cc78ef91368" width="250px" />
 
+--
+
 <img src="https://github.com/user-attachments/assets/c8557ae5-4c6a-4c4f-b5f0-2d0db6cb5037" width="250px" />
 
 <img src="https://github.com/user-attachments/assets/dfb1d1dc-abd4-4772-b914-25d9c015b1ec" width="250px" />
 
 Furthermore, there is a background worker that runs every 15 minutes to reset the state from the Home Widget (even the app is closed). It run when the app is opened too.
+
+<img src="https://github.com/user-attachments/assets/5048fae5-52c3-4142-b216-81440f990b36" width="800px" />
+
+<img src="https://github.com/user-attachments/assets/09230a66-5f66-4c41-ac9d-9041cd8a7f96" width="250px" />
 
 ## Getting Started
 
